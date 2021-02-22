@@ -1,0 +1,9 @@
+departId
+departId         name             location         mgrId            admrDepartId
+10               business         denton           1                50              
+100              research         newyork          2                60              
+200              sales            houston          3                70              
+300              hr               austin           4                50              
+500              engineering      fortworth        1                50              
+400              research         dallas-fortworth 1                50              
+
